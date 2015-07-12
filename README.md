@@ -65,7 +65,9 @@ Your program should allow a user to:
 
 BONUS: Add a search function to find a specific entry.
 
-### Exercise 3: Conway's Game of Life
+## Can You Take a Hit???
+
+### Exercise 1: Conway's Game of Life
 
 Your task is to write a program to calculate the next generation of Conway's Game of Life, given any starting position. You start with a two dimensional grid of cells, where each cell is either alive or dead. The grid is finite, and no life can exist off the edges. When calculating the next generation of the grid, follow these four rules:
 
